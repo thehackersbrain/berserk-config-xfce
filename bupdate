@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SOURCE_CONFIGS="/usr/share/berserk-arch/skel"
+SOURCE_CONFIGS="/usr/share/berserk-arch"
 DEST_CONFIGS="$HOME"
 
 echo "This will copy the latest default Berserk Arch configuration files to your home directory."
