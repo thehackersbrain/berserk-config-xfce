@@ -16,7 +16,7 @@ echo ""
 if [[ $REPLY =~ ^[Yy]$ ]]; then
   echo "Copying new default configurations..."
   echo ""
-  rsync -a --info=progress2 "$SOURCE_CONFIGS/home" "$DEST_CONFIGS/"
+  rsync -a --info=progress2 "$SOURCE_CONFIGS/home/" "$DEST_CONFIGS/"
   echo ""
   echo "Done! You may need to log out and log back in for all changes to take effect."
 else
