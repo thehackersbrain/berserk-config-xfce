@@ -60,7 +60,8 @@ mainbox {
 imagebox {
     padding:                     20px;
     background-color:            transparent;
-    background-image:            url("~/.config/rofi/images/g.png", height);
+    /* background-image:            url("~/.config/rofi/images/g.png", height);*/
+    background-image:            url("~/.config/rofi/images/berserk.jpg", height);
     orientation:                 vertical;
     children:                    [ "inputbar", "dummy", "mode-switcher" ];
 }
