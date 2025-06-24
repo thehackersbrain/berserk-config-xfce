@@ -1,7 +1,7 @@
 QT_QPA_PLATFORMTHEME=qt5ct
 EDITOR=vim
 BROWSER=firefox
-PATH="/usr/share/archcraft/scripts"
+PATH="/usr/share/berserkarch/scripts"
 GTK_THEME=Kali-Dark
 XCURSOR_THEME="Sunity-Cursors"
 GTK_ICON_THEME=Flat-Remix-Blue-Dark
