@@ -2,5 +2,5 @@
 
 ## Run
 rofi \
-    -show drun \
-    -theme "$HOME/.config/rofi/main.rasi"
+  -show drun \
+  -theme "$HOME/.config/rofi/main.rasi"
